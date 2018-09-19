@@ -1,1 +1,20 @@
-The following is a space for us to collaborate on ideas for the group project.
+The following is a space for us to collaborate on ideas for the group project. This file can act as a virtual meeting space for us to share ideas when we have trouble w/scheduling.
+
+-Date Idea Generator-
+
+GEMINI'S BRAINSTORM:
+Inputs:
+-Person 1 (User)
+  -Name
+  -Pronouns
+  -Age
+  -Interests
+-Person 2 (Date)
+  -Name
+  -Pronouns
+  -Age
+  -Interests
+-Relationship (First date, dating, long-term relationship?)
+-Budget category
+  
+User(s) select interests from pre-generated list, program compiles a list of common interests; related interests. (One likes fancy food and the other likes the ocean= dinner at a fancy seafood restaurant?)
