@@ -18,3 +18,22 @@ Inputs:
 -Budget category
   
 User(s) select interests from pre-generated list, program compiles a list of common interests; related interests. (One likes fancy food and the other likes the ocean= dinner at a fancy seafood restaurant?)
+
+Sarah's brainstorm:
+There are so many different things to do it can be really hard to plan something you and you're partner will both enjoy doing. This app would be perfect for someone trying to plan their perfect first date or a nice date night for their long-term partner. By taking inputs from both users about their food or activity interests it will compile into a list of common interests that both people will enjoy. Alhtough there are other applications that show you what food or activities are near you, this app would be different because it will offer you insights into an ideal night. 
+  ----was thinking it would offer you food choices and then based on those decisions it will show you other things in the area?
+    so if you decide on a restaurant if will show you other cute things to do nearby. This was if you're having a good time, your night         doenst need to end there. 
+
+The proposal I wrote to begin with wasn't very good but these were some of the key points I included:
+ ----With these suggestions you can design your perfect night, whether it’s dinner and a movie, or a picnic at a beach nearby. You will be able to mix and match ideas it gives you to create your ideal date
+ ----It will ask you to input information such as; what time of day, proximity to your location, desired cost, whether you’re looking for something active (such as mini-golf or bowling) or something relaxing (such as a movie) 
+ ----how many stars it thinks it will be for you based on the interests you previously provided -- I don't know how hard that would be to do??
+ ----The user will be able to set it up to plan a perfect night; so, once you choose your preferred dinner restaurant it will give you an idea of what else is in the area (as well as how close they are to you) if you want to keep hanging out with the person
+ ----For the app to run smoothly you will have to answer personal questions before you get started such as:
+                do you like movies? 
+                Do you like to be outdoors? 
+                What kind of food do you like (Mexican, Italian, fast food, burgers, etc.)? 
+                Do you like playing games (bowling, mini golf, etc.)? 
+                Do you like watching sports? Do you like concerts? 
+                Do you have any dietary restrictions? 
+                (These were what I could think of at the time)
