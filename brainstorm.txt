@@ -37,3 +37,14 @@ The proposal I wrote to begin with wasn't very good but these were some of the k
                 Do you like watching sports? Do you like concerts? 
                 Do you have any dietary restrictions? 
                 (These were what I could think of at the time)
+                
+ From meeting time:
+----long list of things to choose what you like***
+----drop down menu for things like price***
+----on a scale of 1-5 how much do you like that thing
+----checkbox to not include soemthing whatsoever
+----option to have no preference (0)
+---Tasks:
+        --mapping of which interests lead to what dates
+        --algorithm for matching how much you like a thing 
+        --
