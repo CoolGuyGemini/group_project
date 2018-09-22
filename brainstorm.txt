@@ -48,3 +48,4 @@ The proposal I wrote to begin with wasn't very good but these were some of the k
         --mapping of which interests lead to what dates
         --algorithm for matching how much you like a thing 
         --
+-----rating how the night went at the end
